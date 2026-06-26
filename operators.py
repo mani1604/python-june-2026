@@ -75,5 +75,3 @@ If we divide any number with 0, we get 'ZeroDivisionError'
 Example: 
 10 / 0 => ZeroDivisionError: division by zero
 """
-
-
